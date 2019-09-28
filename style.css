@@ -4,7 +4,7 @@ footer {
     height: 60px;
     color: white;
     width: 1125px;
-    flex-shrink: none;
+   
 }
 
 .text-muted {
@@ -15,4 +15,9 @@ footer {
 .row, 
 form {
     padding: 25px;
+}
+
+img { 
+    width: 200px;
+    width: 200px;
 }
