@@ -6,7 +6,46 @@ form {
 img { 
     width: 200px;
     width: 200px;
+    margin-left: 50px; /*added*/
+    /* margin-top: 40px; */
 }
+
+.navbar-custom { /*added*/
+   background-color: #458a79;  
+}
+
+h1 {
+    color: white;
+    margin-left: 55px; /*added*/
+}
+
+a { /*added*/
+    color: white; 
+    margin-right: 20px;
+}
+
+.card { /*added*/
+    background-color: #458a79;  
+    color: white;
+    text-align: center;
+    padding-top: 20px;    
+    height: 65px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.form-group { /*added*/
+    margin: 25px;
+}
+
+.port-custom { /*added*/
+    margin-left: 175px;
+}
+
+
+
 
 
 
